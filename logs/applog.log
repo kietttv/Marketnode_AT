@@ -1530,3 +1530,475 @@
 [INFO] 01-08-2024 11:12:49 [main] [LogUtils] - Verify error message displayed after fail login
 [INFO] 01-08-2024 11:12:49 [main] [LogUtils] - Verify error message displayed after fail login
 [INFO] 01-08-2024 11:12:49 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:02 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:02 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:18:02 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:04 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b4ab6455a13a36ec5de7d901e1ba8cbb)
+[INFO] 01-08-2024 11:18:04 [TestNG-PoolService-3] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (c844dea51c8946f889a8c23903d17188)
+[INFO] 01-08-2024 11:18:04 [TestNG-PoolService-2] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (5b9d522b2cd56016269f7c4e92555cdc)
+[INFO] 01-08-2024 11:18:06 [TestNG-PoolService-1] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 11:18:06 [TestNG-PoolService-3] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 11:18:06 [TestNG-PoolService-2] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 11:18:07 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:07 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:18:07 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:07 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:07 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:08 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:08 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:08 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:18:08 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:08 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:18:10 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:18:11 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:20:09 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:20:09 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:20:09 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:20:12 [TestNG-PoolService-3] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (bda33ee9e27701282836076cb91cb34c)
+[INFO] 01-08-2024 11:20:12 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (8ae6f8c1c29af5e52562dbf68c38d2ec)
+[INFO] 01-08-2024 11:20:12 [TestNG-PoolService-2] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (c8cf63a800af5d842b6b58f31f10f19b)
+[INFO] 01-08-2024 11:20:13 [TestNG-PoolService-2] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 11:20:13 [TestNG-PoolService-3] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 11:20:13 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:20:13 [TestNG-PoolService-1] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 11:20:13 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:20:13 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:20:14 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:20:14 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:20:14 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:20:14 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:20:14 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:20:14 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:20:14 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:20:17 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:20:18 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:58:26 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:58:26 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:58:26 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:58:31 [TestNG-PoolService-2] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (6317cdf9d61016d60e0cc1ddb7d05b55)
+[INFO] 01-08-2024 11:58:31 [TestNG-PoolService-3] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (9ea5716faf4fa4bffcede1ac3b8398f4)
+[INFO] 01-08-2024 11:58:31 [TestNG-PoolService-1] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (7b70706518d1ac2115f5ecd0b0bddc28)
+[INFO] 01-08-2024 11:58:32 [TestNG-PoolService-3] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 11:58:32 [TestNG-PoolService-2] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 11:58:36 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:58:36 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:58:36 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:58:37 [TestNG-PoolService-2] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:58:37 [TestNG-PoolService-1] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 11:58:37 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:58:37 [TestNG-PoolService-3] [LogUtils] - Javascript in NOT Ready!
+[INFO] 01-08-2024 11:58:37 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:58:37 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:58:37 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:58:38 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:58:38 [TestNG-PoolService-3] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 11:58:41 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 11:58:42 [TestNG-PoolService-1] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:46:23 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:46:27 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (ea478e9b814023d609f2a8f1dc867f01)
+[INFO] 01-08-2024 13:46:28 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:46:28 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:46:28 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:46:31 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:46:32 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:46:32 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:46:33 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (c466d1a529cd65350dd8237001dd4240)
+[INFO] 01-08-2024 13:46:34 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:46:34 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:46:34 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:46:35 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:46:35 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:46:36 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:46:37 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (bf79f3421228d16ebf23bd3778e5046c)
+[INFO] 01-08-2024 13:46:38 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:46:38 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:46:38 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:46:38 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:46:38 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:46:40 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:46:40 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (a413a684539c9e9b9e56d8654dbd001e)
+[INFO] 01-08-2024 13:46:41 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:46:41 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:47:27 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:47:29 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (d6817313b139e23afec4270b9f4290c9)
+[INFO] 01-08-2024 13:47:30 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:47:30 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:47:31 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:47:33 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:47:35 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:47:35 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:47:36 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (7d31f4f4540a671839299ddcbc6f1e03)
+[INFO] 01-08-2024 13:47:37 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:47:37 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:47:37 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:47:37 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:47:37 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:47:39 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:47:40 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (a94ea02c6c043021b0aed3cb30528f65)
+[INFO] 01-08-2024 13:47:41 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:47:41 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:47:41 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:47:41 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:47:41 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:47:43 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:47:44 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (ca6e4d3197e3ce6910441db2cabf3c44)
+[INFO] 01-08-2024 13:47:45 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:47:45 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:49:14 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:49:17 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (a74bc2180f5a06428a84439e50154a67)
+[INFO] 01-08-2024 13:49:17 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:49:17 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:49:18 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:49:20 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:49:22 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:49:22 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:49:23 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (cbcf015652455a5ca4a6ab18387739cf)
+[INFO] 01-08-2024 13:49:24 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:49:24 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:49:24 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:49:24 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:49:24 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:49:26 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:49:27 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (bde4b29cea79480d274fe9b374d361e7)
+[INFO] 01-08-2024 13:49:28 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:49:28 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:49:28 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:49:28 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:49:28 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:49:30 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:49:30 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (2617f9ceb1057db1329de710b714a1fc)
+[INFO] 01-08-2024 13:49:31 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:49:31 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:49:32 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:49:32 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:49:32 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:50:47 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:50:49 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (38ebf442d1661137c42803942782081d)
+[INFO] 01-08-2024 13:50:50 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:50:50 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:50:50 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:50:53 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:50:54 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:50:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:50:55 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (13bd41ac22f2b4456cd44d3715100222)
+[INFO] 01-08-2024 13:50:56 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:50:56 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:50:56 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:50:56 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:50:56 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:50:58 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:50:59 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (2fadc3b3f0c656fb43bbcf4ffa8d9c91)
+[INFO] 01-08-2024 13:51:00 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:51:00 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:51:00 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:51:00 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:51:00 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:51:01 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:51:02 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (dad9a980c847a9e7903ecb99594fa93e)
+[INFO] 01-08-2024 13:51:03 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:51:03 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:51:14 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:51:14 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:51:58 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:51:59 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (01f5d843314e3db3be673a8e999792ac)
+[INFO] 01-08-2024 13:52:00 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:52:00 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:52:01 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:52:03 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:52:04 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:52:05 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:06 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (cb039e1252927614022cbcd5110b9b01)
+[INFO] 01-08-2024 13:52:06 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:52:06 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:07 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:07 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:07 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:09 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:10 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (466d4b174a955e863f599111168602df)
+[INFO] 01-08-2024 13:52:10 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:52:10 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:11 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:11 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:11 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:12 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:52:13 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (5714eb56a3df33b7333b5efd15c1d67d)
+[INFO] 01-08-2024 13:52:14 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:52:14 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:52:25 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:52:25 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:52:48 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:52:50 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (28c4269535976457b327a33526922594)
+[INFO] 01-08-2024 13:52:51 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:52:51 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:52:52 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:52:54 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:52:56 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:52:56 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:57 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (bb99351d55e074525dac65603b6c8536)
+[INFO] 01-08-2024 13:52:58 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:52:58 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:59 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:59 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:52:59 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:53:01 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:53:02 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (3090a2a329863b0ffc2decbd059deffa)
+[INFO] 01-08-2024 13:53:03 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:53:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:53:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:53:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:53:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:53:05 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:53:06 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (707cf352d9a42d5616230b86a5c74e65)
+[INFO] 01-08-2024 13:53:07 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:53:07 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:54:19 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:54:21 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b0317d564f2a192cc778e8fb6857cbf8)
+[INFO] 01-08-2024 13:54:23 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:54:23 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:54:23 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:54:25 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:54:26 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:54:26 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:54:27 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (463d19861d72b8a397cff277a76507f5)
+[INFO] 01-08-2024 13:54:28 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:54:28 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:54:29 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:54:29 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:54:29 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:54:31 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:54:31 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (960f15abcaa4525aff48af116d76e5b9)
+[INFO] 01-08-2024 13:54:32 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:54:32 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:54:33 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:54:33 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:54:33 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:54:34 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:54:35 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (fe3f552f008a8a41429f89eaaa3a5731)
+[INFO] 01-08-2024 13:54:36 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:54:36 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:54:46 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:54:46 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:56:49 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:56:51 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (29ef5106d241f6660b2044b79c20c630)
+[INFO] 01-08-2024 13:56:52 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:56:52 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:56:53 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:56:55 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:56:56 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:56:57 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:56:57 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (7979cec8369dcedbceb6b8c95db7c23d)
+[INFO] 01-08-2024 13:56:58 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:56:58 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:56:59 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:56:59 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:56:59 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:01 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:02 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b6317c9d0439a6c1a5eef506c3931f3c)
+[INFO] 01-08-2024 13:57:03 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:57:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:04 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:57:05 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (64f0c188ccf8dae14058b63579567159)
+[INFO] 01-08-2024 13:57:06 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:57:06 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:57:17 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:57:17 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:57:42 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:57:44 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (1a703c360666c9ecf02781b3c75dc7c3)
+[INFO] 01-08-2024 13:57:45 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:57:45 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:57:46 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:57:48 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:57:50 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 13:57:50 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:51 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (59d4ae4361ad80214f3e970d9da7ff07)
+[INFO] 01-08-2024 13:57:54 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:57:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:56 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:57 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (44c877ff339ac6d7f7f6d79b96649d2f)
+[INFO] 01-08-2024 13:57:58 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:57:58 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:58 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:58 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:57:58 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 13:58:00 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 13:58:01 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b49e0baff9ddaba64098f64a87b2c4b6)
+[INFO] 01-08-2024 13:58:02 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 13:58:02 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:09:44 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:09:46 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (9412e8d3782f0be692be1f0f5f545506)
+[INFO] 01-08-2024 14:09:47 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:09:47 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:09:48 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:09:50 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:09:52 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:09:52 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:09:53 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (a84aaa330766d22ecab77cead3659fed)
+[INFO] 01-08-2024 14:09:54 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:09:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:09:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:09:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:09:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:09:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:09:55 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (dd97078a3752c45385c4f068d3f858a4)
+[INFO] 01-08-2024 14:09:56 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:09:56 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:09:56 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:09:56 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:09:56 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:09:57 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:09:57 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (5cfbe5c18fab2b8e3bab64fb5872071e)
+[INFO] 01-08-2024 14:09:58 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:09:58 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:10:38 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:10:40 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (33b7c6721441ee71f768aa8621e7aa9e)
+[INFO] 01-08-2024 14:10:41 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:10:41 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:10:42 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:10:44 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:10:46 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:10:46 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:10:47 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (e5e3982a08cb762c8da735134d84a093)
+[INFO] 01-08-2024 14:10:48 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:10:48 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:10:48 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:10:49 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:10:49 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:10:51 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:10:52 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (4388cee4aa5f67c649e2b07bb0406e17)
+[INFO] 01-08-2024 14:11:02 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:11:02 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:11:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:11:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:11:03 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:11:04 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:11:05 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (403db243de3804dceebd47fd5b95fd50)
+[INFO] 01-08-2024 14:11:09 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:11:09 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:13:33 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:13:35 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (40a50cd169d00ed1e46fbf731706ff96)
+[INFO] 01-08-2024 14:13:36 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:13:36 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:13:37 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:13:39 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:13:40 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:13:41 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:13:41 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (ee41990982794253c0e06d4c1c314121)
+[INFO] 01-08-2024 14:13:42 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:13:42 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:13:43 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:13:43 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:13:43 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:13:45 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:13:46 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (9233123f57fbc88d15d0a6e509e33daf)
+[INFO] 01-08-2024 14:13:47 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:13:47 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:13:47 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:13:47 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:13:47 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:13:49 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:13:50 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (04f425097c0d065a35ba227b2d23585f)
+[INFO] 01-08-2024 14:13:51 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:13:51 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:17:30 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:17:33 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (95a081b30191e9e7923c820e6613bcf6)
+[INFO] 01-08-2024 14:17:36 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:17:36 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:17:36 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:17:39 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:17:40 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:17:40 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:17:41 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (c1588d0190c4aefe874ea355fdfe286b)
+[INFO] 01-08-2024 14:17:45 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:17:45 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:17:45 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:17:45 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:17:45 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:17:47 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:17:48 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (98533f813c2ac587c17366ad522684fc)
+[INFO] 01-08-2024 14:17:54 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:17:54 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:17:55 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:17:55 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:17:55 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:17:56 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:17:57 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (baeead53dd9bc4de0f6ad4b42182280b)
+[INFO] 01-08-2024 14:17:59 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:17:59 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:18:10 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:18:10 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:42:11 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:42:13 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (b99a1f14a955ba79efaa71dec24e9a96)
+[INFO] 01-08-2024 14:42:14 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:42:14 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:42:15 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:42:16 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:42:18 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:42:18 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:42:19 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (7f73b8f58d4cf147e26cdb9880326ad7)
+[INFO] 01-08-2024 14:42:19 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:42:19 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:42:20 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:42:20 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:42:20 [main] [LogUtils] - Verify error message displayed after fail login
+[ERROR] 01-08-2024 14:42:31 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //*[@id="loginForm"]/div/div/div[3]/div/div
+[INFO] 01-08-2024 14:42:32 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:42:33 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (a4b16ac1d2ec0d156d3c63f49b79625b)
+[INFO] 01-08-2024 14:42:34 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:42:34 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:42:34 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:42:35 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:42:35 [main] [LogUtils] - Verify error message displayed after fail login
+[ERROR] 01-08-2024 14:42:45 [main] [LogUtils] - Timeout waiting for the element Visible. By.xpath: //*[@id="loginForm"]/div/div/div[3]/div/div
+[INFO] 01-08-2024 14:42:45 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:42:46 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (439f427be008144dfa230086dd387a8f)
+[INFO] 01-08-2024 14:42:47 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:42:47 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:42:47 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:42:47 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:42:47 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:42:48 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (4e4604a3648c610b983e3e03445466a8)
+[INFO] 01-08-2024 14:42:49 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:42:49 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:42:49 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:42:49 [main] [LogUtils] - Get text: Please enter a valid email address
+[INFO] 01-08-2024 14:42:50 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:43:25 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:43:27 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (0d25c1b5f0b8f0702d65c69fdbf902f6)
+[INFO] 01-08-2024 14:43:28 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:43:28 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:43:29 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:43:31 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:43:33 [main] [LogUtils] - Verify user home page displayed after successful login
+[INFO] 01-08-2024 14:43:33 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:43:34 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (034a8418517b9a5571f11d895d56cd9e)
+[INFO] 01-08-2024 14:43:35 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:43:35 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:43:35 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:43:36 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:43:36 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:43:37 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:43:38 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (e7c8053ece47ab5cc2b8848e4c4cbff4)
+[INFO] 01-08-2024 14:43:39 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:43:40 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:43:40 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:43:40 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:43:40 [main] [LogUtils] - Verify error message displayed after fail login
+[INFO] 01-08-2024 14:43:41 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:43:42 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (dd52454c93ba3e3016edf592ebec962c)
+[INFO] 01-08-2024 14:43:43 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:43:43 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:43:43 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:43:43 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:43:43 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:43:44 [main] [LogUtils] - Driver in TestContext: ChromeDriver: chrome on windows (65aff4b47c31616e95fbcdeb7cc493c3)
+[INFO] 01-08-2024 14:43:45 [main] [LogUtils] - Open URL: https://gwy.qa.marketnode.com/login
+[INFO] 01-08-2024 14:43:45 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:43:45 [main] [LogUtils] - Verify error message displayed enter invalid credentials
+[INFO] 01-08-2024 14:43:45 [main] [LogUtils] - Get text: Please enter a valid email address
+[INFO] 01-08-2024 14:43:46 [main] [LogUtils] - Verify error message displayed enter invalid credentials

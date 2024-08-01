@@ -14,6 +14,16 @@ Feature: Verify User Home Page
     Then user should be still stay on login page
     And error message should be displayed
     Examples:
-      | email                      | password      |
-      | "ethan.summer@yopmail.com" | "password"    |
-      | "jacob.spring@yopmail.com" | "12345678@Ab" |
+      | email                    | password      |
+      | ethan.summer@yopmail.com | wrongPassword |
+      | jacob.spring@yopmail.com | 12345678@Ab   |
+
+  Scenario Outline: Verify error message displayed enter invalid credentials
+    Given user is on the login page
+    When user enters invalid <email> and <password>
+    Then error message <emailMess> and <passwordMess> of input should be displayed
+    And user should be still stay on login page
+    Examples:
+      | email        | password | emailMess                          | passwordMess               |
+      |              |          | Please enter your email            | Please enter your password |
+      | abcd0123@#$% |          | Please enter a valid email address | Please enter your password |

@@ -1,5 +1,6 @@
 package stepdefinition;
 
+import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -64,10 +65,10 @@ public class LoginStepDefs {
         return "123456";
     }
 
-    @When("user enters invalid {string} and {string}")
+    @When("user enters invalid {} and {}")
     public void userEntersInvalidAnd(String email, String password) {
-        loginPage.setEmailInput(email);
-        loginPage.setPasswordInput(password);
+        loginPage.setEmailInput(email != null ? email : "");
+        loginPage.setPasswordInput(password != null ? password : "");
     }
 
     @And("user click login button")
@@ -89,6 +90,16 @@ public class LoginStepDefs {
     public void errorMessageShouldBeDisplayed() {
         try {
             loginPage.verifyInvalidMessIsVisible();
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+    }
+
+    @Then("error message {} and {} of input should be displayed")
+    public void errorMessageAndOfInputShouldBeDisplayed(String emailMess, String passMess) {
+        try {
+            WebUI.verifyEquals(loginPage.getEmailErrorMessage(), emailMess, "Error email mess is not match");
+            WebUI.verifyEquals(loginPage.getPasswordErrorMessage(), passMess, "Error password mess is not match");
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
