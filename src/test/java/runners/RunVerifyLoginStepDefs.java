@@ -11,7 +11,12 @@ import org.testng.annotations.Test;
         glue = {"project.com.hooks",
                 "stepdefinition",
         },
-        plugin = {"pretty", "html:target/cucumber-html-report.html"}
+        plugin = {
+                "pretty",
+                "html:target/cucumber-html-report.html",
+                "html:target/cucumber-reports/TestRunnerVerifyLogin.html",
+                "json:target/cucumber-reports/TestRunnerVerifyLogin.json"
+        }
 )
 @Test
 public class RunVerifyLoginStepDefs extends AbstractTestNGCucumberTests {

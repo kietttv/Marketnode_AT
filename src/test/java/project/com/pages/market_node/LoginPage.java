@@ -1,6 +1,7 @@
 package project.com.pages.market_node;
 
 import org.openqa.selenium.By;
+import project.com.constants.ConstantGlobal;
 import project.com.driver.DriverManager;
 import project.com.keywords.WebUI;
 
@@ -11,6 +12,12 @@ public class LoginPage {
     By emailErrorMessage = By.xpath("//*[@id=\"loginForm_username_help\"]/div");
     By passwordErrorMessage = By.xpath("//*[@id=\"loginForm_password_help\"]/div");
     By invalidMessage = By.xpath("//*[@id=\"loginForm\"]/div/div/div[3]/div/div");
+
+    public void openLoginPage(){
+        WebUI.openURL(ConstantGlobal.URL+"login");
+        new LoginPage();
+    }
+
     public void setEmailInput(String emailInputStr) {
         WebUI.setText(emailInput ,emailInputStr);
     }

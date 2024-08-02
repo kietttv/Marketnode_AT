@@ -4,14 +4,17 @@ import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.testng.annotations.Listeners;
 import project.com.constants.ConstantGlobal;
 import project.com.driver.DriverManager;
 import project.com.hooks.TestContext;
 import project.com.keywords.WebUI;
+import project.com.listeners.ReportListener;
 import project.com.pages.market_node.LoginPage;
 import project.com.pages.market_node.TwoFactorAuthenticationPage;
 import project.com.pages.market_node.UserHomePage;
 
+@Listeners(ReportListener.class)
 public class LoginStepDefs {
     TestContext testContext;
     LoginPage loginPage;

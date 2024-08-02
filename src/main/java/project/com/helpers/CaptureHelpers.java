@@ -1,5 +1,6 @@
 package project.com.helpers;
 
+import org.testng.ITestResult;
 import project.com.constants.ConstantGlobal;
 import project.com.driver.DriverManager;
 import org.monte.media.Format;
@@ -93,25 +94,25 @@ public class CaptureHelpers extends ScreenRecorder {
         }
     }
 
-    //Take a screenshot
-//    public static void takeScreenshot(ITestResult result) {
-//        TakesScreenshot ts = (TakesScreenshot) DriverManager.getDriver();
-//        File source = ts.getScreenshotAs(OutputType.FILE);
-//
-//        File theDir = new File("./screenshots/");
-//        if (!theDir.exists()) {
-//            theDir.mkdirs();
-//        }
-//
-//        try {
-//
-//            FileHandler.copy(source, new File("./screenshots/" + result.getName() + ".png"));
-//
-//        } catch (IOException e) {
-//            throw new RuntimeException(e);
-//        }
-//        System.out.println("Screenshot taken: " + result.getName());
-//    }
+//    Take a screenshot
+    public static void takeScreenshot(ITestResult result) {
+        TakesScreenshot ts = (TakesScreenshot) DriverManager.getDriver();
+        File source = ts.getScreenshotAs(OutputType.FILE);
+
+        File theDir = new File("./screenshots/");
+        if (!theDir.exists()) {
+            theDir.mkdirs();
+        }
+
+        try {
+
+            FileHandler.copy(source, new File("./screenshots/" + result.getName() + ".png"));
+
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+        System.out.println("Screenshot taken: " + result.getName());
+    }
 
     //Take a screenshot
     public static void takeScreenshot(String name) {

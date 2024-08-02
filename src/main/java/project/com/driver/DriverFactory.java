@@ -12,11 +12,11 @@ import project.com.constants.ConstantGlobal;
 import project.com.helpers.PropertiesHelpers;
 
 public class DriverFactory {
-//    public WebDriver createDriver() {
-//        WebDriver driver = setupBrowser(PropertiesHelpers.getValue("BROWSER"));
-//        DriverManager.setDriver(driver);
-//        return driver;
-//    }
+    public WebDriver createDriver() {
+        WebDriver driver = setupBrowser(ConstantGlobal.BROWSER);
+        DriverManager.setDriver(driver);
+        return driver;
+    }
 
     public WebDriver createDriver(String browserName) {
         WebDriver driver = setupBrowser(browserName);

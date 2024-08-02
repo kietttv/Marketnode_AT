@@ -1,13 +1,16 @@
 package stepdefinition;
 
 import io.cucumber.java.en.Given;
+import org.testng.annotations.Listeners;
 import project.com.constants.ConstantGlobal;
 import project.com.hooks.TestContext;
 import project.com.keywords.WebUI;
+import project.com.listeners.ReportListener;
 import project.com.pages.market_node.LoginPage;
 import project.com.pages.market_node.TwoFactorAuthenticationPage;
 import project.com.pages.market_node.UserHomePage;
 
+@Listeners(ReportListener.class)
 public class CommonStepDefs {
     TestContext testContext;
     LoginPage loginPage;
@@ -23,6 +26,6 @@ public class CommonStepDefs {
 
     @Given("user is on the login page")
     public void userIsOnTheLoginPage() {
-        WebUI.openURL(ConstantGlobal.URL+"login");
+        loginPage.openLoginPage();
     }
 }
